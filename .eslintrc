@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "env": {
+    "es6": true,
+    "jest": true,
+    "node": true
+  },
+  "ecmaFeatures": {
+    "modules": false
+  },
+  "rules": {},
+  "extends": "airbnb-base"
+}
